@@ -1,11 +1,11 @@
 const wrapper = document.querySelector(".wrapper");
 const question = document.querySelector(".question");
 const gif = document.querySelector(".gif");
-const yesBtn = document.querySelector(".yes-btn");
-const noBtn = document.querySelector(".no-btn");
+const yesBtn = document.querySelector(".đroi á-btn");
+const noBtn = document.querySelector(".Ko-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Aaaaa, I like you too";
+  question.innerHTML = "Mik cx thích cậu á😘";
   gif.src =
     "https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gif.webp";
 });
